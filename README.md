@@ -10,4 +10,4 @@ Je voudrais créer une application pour que nous puissions mieux suivre nos cand
    - [API La Bonne Boite](https://www.data.gouv.fr/fr/dataservices/api-la-bonne-boite/)  
 
 2. **Fonctionnalités** :  
-   - Ajouter des **cards** pour 
+   - Ajouter des cards pour 
