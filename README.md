@@ -15,4 +15,4 @@ Je voudrais créer une application pour que nous puissions mieux suivre nos cand
 
 Script BeautifulSoup pour le scraping → conforme au RGPD.
 Base de données en SQLite ? ou mise en commun des recherches : par exemple, retirer les entreprises qui ne recrutent que pendant la période scolaire.
-Personnal use ou faut deployer
+Personnal use ou faut deployer???
