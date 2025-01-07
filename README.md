@@ -1,18 +1,15 @@
 # Salut la team !
 
-Je voudrais créer une application pour que nous puissions mieux suivre nos candidatures et/ou trouver de nouveaux prospects.  
+Je voudrais créer une application pour que nous puissions mieux suivre nos candidatures et/ou trouver de nouveaux prospects.
 
-## Roadmap  
+## Roadmap
 
-1. **Définir quelle API utiliser** : plusieurs choix sont possibles. Si on les utilise toutes, il faudra réfléchir à comment les gérer efficacement :  
+1. **Définir quelles API utiliser** : plusieurs choix sont possibles. Si nous les utilisons toutes, il faudra réfléchir à une gestion efficace :  
    - [API Alternance](https://www.data.gouv.fr/fr/dataservices/api-alternance/)  
    - [API Recherche d'Entreprises](https://www.data.gouv.fr/fr/dataservices/api-recherche-dentreprises/)  
    - [API La Bonne Boite](https://www.data.gouv.fr/fr/dataservices/api-la-bonne-boite/)  
 
 2. **Fonctionnalités** :  
-   - Ajouter des cards pour 
+   - Ajouter des **cards** pour visualiser les résultats des recherches.  
+   - Utiliser un script **BeautifulSoup** pour le scraping → conforme au RGPD.  
 
-
-Script BeautifulSoup pour le scraping → conforme au RGPD.
-Base de données en SQLite ? ou mise en commun des recherches : par exemple, retirer les entreprises qui ne recrutent que pendant la période scolaire.
-Personnal use ou faut deployer???
